@@ -10,12 +10,9 @@
 
 ## نصب و اجرا
 1. پروژه را کلون کنید:
-   ```bash
-   git clone <https://github.com/alibahrampoor80/salary-and-wages>
-
-     ```bash
-   cd <project-folder>
-
+ ```bash
+ git clone <https://github.com/alibahrampoor80/salary-and-wages>
+```
 
 ```bash
 npm install
