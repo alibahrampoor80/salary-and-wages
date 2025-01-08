@@ -16,10 +16,12 @@
      ```bash
    cd <project-folder>
 
-    ```bash
-   npm install
-   
-   ```bash
-   npm start
 
+```bash
+npm install
+```
+
+ ```bash
+ npm start
+```
 
