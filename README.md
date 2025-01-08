@@ -13,11 +13,13 @@
    ```bash
    git clone <https://github.com/alibahrampoor80/salary-and-wages>
 
- ```bash
-cd <project-folder>
+     ```bash
+   cd <project-folder>
 
-npm install
-
-npm start
+    ```bash
+   npm install
+   
+   ```bash
+   npm start
 
 
